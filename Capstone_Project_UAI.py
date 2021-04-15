@@ -1,5 +1,5 @@
 #%% md
-prueba de cambioooooooooooooooooooooooooooooooooooo
+quite el cambio
 # Actividad k-means (color quantization)
 
 #Una de los usos de k-means es color quantization. Para ello se necesita realizar los siguientes pasos
